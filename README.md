@@ -1,7 +1,12 @@
+## Training CSS <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+
 ```css
 repository {
-  about: Experimenting with CSS;
+  about: experiments with CSS;
+  javascript: none;
 }
+```
 
+- Animated Menu
 
-¯\_(ツ)_/¯
+<img src="./animated-menu/demo.gif" alt="animated menu demo" />
