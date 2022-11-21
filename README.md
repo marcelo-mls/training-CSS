@@ -1,2 +1,7 @@
-# training-CSS
-Experimenting with CSS
+```css
+repository {
+  about: Experimenting with CSS;
+}
+
+
+¯\_(ツ)_/¯
