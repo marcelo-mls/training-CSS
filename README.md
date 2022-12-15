@@ -10,3 +10,7 @@ repository {
 - Animated Menu
 
 <img src="./animated-menu/demo.gif" alt="animated menu demo" />
+
+- Dino Cards
+
+<img src="./dino-cards/images/demo.gif" alt="dino cards demo" />
