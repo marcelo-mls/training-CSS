@@ -32,4 +32,4 @@ projects {
 
 - Blocks with cats in a Moving Window
 
-<img src="./blocks-with-cats-in-moving-window/demo.gif" alt="animated cats demo" />
+<img src="./blocks-with-cats-in-moving-window/images/demo.gif" alt="animated cats demo" />
