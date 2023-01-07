@@ -5,6 +5,11 @@ repository {
   about: experiments with CSS;
   javascript: none;
 }
+
+projects {
+  group: one;
+  javascript: none;
+}
 ```
 
 - Animated Menu
@@ -14,3 +19,17 @@ repository {
 - Dino Cards
 
 <img src="./dino-cards/images/demo.gif" alt="dino cards demo" />
+
+
+<hr>
+
+```css
+projects {
+  group: two;
+  javascript: just-a-little-bit;
+}
+```
+
+- Blocks with cats in a Moving Window
+
+<img src="./blocks-with-cats-in-moving-window/demo.gif" alt="animated cats demo" />
