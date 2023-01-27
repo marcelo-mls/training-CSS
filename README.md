@@ -3,9 +3,9 @@
 ```css
 repository {
   about: experiments with CSS;
-  javascript: none;
 }
-
+```
+```css
 projects {
   group: one;
   javascript: none;
